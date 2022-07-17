@@ -1,0 +1,1 @@
+cd SchemeSimEngine && make kawa && ./kawa && cd ..
